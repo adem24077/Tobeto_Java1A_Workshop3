@@ -1,0 +1,6 @@
+package oppWithNLayeredCarApp.core.logging;
+
+public interface Logger {
+	void log(String data);
+	
+}
